@@ -2,11 +2,11 @@
   "name": "grunt-xbuild",
   "version": "0.1.0",
   "description": "xbuild runner task for grunt",
-  "main": "index.js",
   "homepage": "https://github.com/andyroyle/grunt-xbuild",
+  "main": "Gruntfile.js",
   "scripts": {
-    "test": "grunt test"
-  },
+    "test": "grunt test -v"
+  }
   "repository": {
     "type": "git",
     "url": "git://github.com/andyroyle/grunt-xbuild"
