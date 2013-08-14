@@ -8,7 +8,7 @@ The task requires that the [mono mdk][1] be installed and the 'xbuild' command a
 
 installing:
 ```shell
-npm install git://github.com/andyroyle/grunt-xbuild.git --save-dev
+npm install grunt-xbuild --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
