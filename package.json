@@ -1,15 +1,15 @@
 {
   "name": "grunt-xbuild",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "xbuild runner task for grunt",
-  "homepage": "https://github.com/andyroyle/grunt-xbuild",
+  "homepage": "https://github.com/opentable/grunt-xbuild",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "grunt test -v"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andyroyle/grunt-xbuild"
+    "url": "git://github.com/opentable/grunt-xbuild"
   },
   "keywords": [
     "grunt",
@@ -20,11 +20,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/andyroyle/grunt-xbuild/blob/master/LICENSE"
+      "url": "https://github.com/opentable/grunt-xbuild/blob/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/andyroyle/grunt-xbuild/issues"
+    "url": "https://github.com/opentable/grunt-xbuild/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

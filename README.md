@@ -1,4 +1,4 @@
-# grunt-xbuild [![Build Status](https://travis-ci.org/andyroyle/grunt-xbuild.png?branch=master)](https://travis-ci.org/andyroyle/grunt-xbuild) [![NPM version](https://badge.fury.io/js/grunt-xbuild.png)](http://badge.fury.io/js/grunt-xbuild) ![Dependencies](https://david-dm.org/andrewrjones/grunt-ssh.png)
+# grunt-xbuild [![Build Status](https://travis-ci.org/opentable/grunt-xbuild.png?branch=master)](https://travis-ci.org/opentable/grunt-xbuild) [![NPM version](https://badge.fury.io/js/grunt-xbuild.png)](http://badge.fury.io/js/grunt-xbuild) ![Dependencies](https://david-dm.org/opentable/grunt-xbuild.png)
 
 xbuild runner for grunt
 
